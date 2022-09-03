@@ -345,11 +345,7 @@ body {
   text-transform: capitalize;
 }
 
-@media screen and (max-width: 300px){
-  .hero__input{
-    display: none;
-  }
-}
+
 
 @media screen and (max-width: 720px) {
 
